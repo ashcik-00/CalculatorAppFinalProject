@@ -1,0 +1,17 @@
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.csproj.AssemblyReference.cache
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.Form1.resources
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.csproj.GenerateResource.cache
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.AssemblyInfoInputs.cache
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.AssemblyInfo.cs
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\bin\Debug\net6.0-windows\CalculaorAppFinalProject.exe
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\bin\Debug\net6.0-windows\CalculaorAppFinalProject.deps.json
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\bin\Debug\net6.0-windows\CalculaorAppFinalProject.runtimeconfig.json
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\bin\Debug\net6.0-windows\CalculaorAppFinalProject.dll
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\bin\Debug\net6.0-windows\CalculaorAppFinalProject.pdb
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.dll
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\refint\CalculaorAppFinalProject.dll
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.pdb
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\CalculaorAppFinalProject.genruntimeconfig.cache
+C:\Users\mdrah\Desktop\MVC\CalculaorAppFinalProject\CalculaorAppFinalProject\obj\Debug\net6.0-windows\ref\CalculaorAppFinalProject.dll
